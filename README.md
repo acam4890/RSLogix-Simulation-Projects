@@ -1,1 +1,2 @@
 ![image](https://github.com/acam4890/RSLogix-Simulation-Projects/assets/130267975/37d92a45-e73f-4084-92d9-de8064ab7244)
+Program for measuring the oil flowing  through a pipeline in Gallons per Minute. A digital rotameter sends a pulse to the PLC after 6.3 gallons of oil flow past it. The rotameter pulse is stored in a binary file rather than a digital input because we want to control when the pulse is sent for simulation reasons.
